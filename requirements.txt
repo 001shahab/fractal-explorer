@@ -1,0 +1,21 @@
+# Animated Lorenz Attractor - Deterministic Chaos Visualization
+# Designer & Developer: Prof. Shahab Anbarjafari - 3S Holding OÜ
+# 
+# Core dependencies for mathematical visualization and chaos theory simulation
+
+# Numerical computing and mathematical operations
+numpy>=1.21.0
+
+# 3D plotting, animation, and scientific visualization
+matplotlib>=3.5.0
+
+# Optional: Enhanced numerical operations (for future extensions)
+scipy>=1.7.0
+
+# Development and code quality (optional)
+# black>=22.0.0      # Code formatting
+# flake8>=4.0.0      # Code linting
+# pytest>=7.0.0      # Testing framework
+
+# Platform-specific optimizations (optional)
+# numba>=0.56.0      # JIT compilation for performance boost
